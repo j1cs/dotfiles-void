@@ -1,0 +1,27 @@
+window {
+background-color: rgba(0,0,0,0.8);
+}
+
+#input {
+margin: 5px;
+border: none;
+}
+
+#inner-box {
+margin: 5px;
+}
+/*#inner-box flowboxchild:nth-child(even) {
+    background-color: #FFFF00;
+}*/
+
+#outer-box {
+margin: 5px;
+}
+
+#scroll {
+margin: 5px;
+}
+
+#text {
+margin: 5px;
+}
