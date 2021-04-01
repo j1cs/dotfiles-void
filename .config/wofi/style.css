@@ -1,0 +1,17 @@
+window {
+    background-color: rgba(0,0,0,0.6);
+}
+
+#input {
+    border: none;
+    margin: 5px;
+}
+
+#outer-box {
+    margin: 5px;
+}
+
+
+#text {
+    margin: 5px;
+}
